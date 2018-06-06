@@ -59,6 +59,7 @@ namespace Catalogs.WebApi.Controllers
             {
                 return BadRequest();
             }
+            _catalog.CatalogId = Guid.NewGuid();
             await _catalogUnit.CatalogABCRepository.Insert(_catalog);
             await _catalogUnit.SaveChangesAsync();
             catalog = _mapper.Map<CatalogDto>(_catalog);

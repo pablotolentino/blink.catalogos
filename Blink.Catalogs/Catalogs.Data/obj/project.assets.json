@@ -3649,8 +3649,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\totp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Pablo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3659,20 +3658,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\totp\\source\\repos\\Blink.Catalogs\\Catalogs.Data\\Catalogs.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Documents\\GitHub\\blink.catalogos\\Blink.Catalogs\\Catalogs.Data\\Catalogs.Data.csproj",
       "projectName": "Catalogs.Data",
-      "projectPath": "C:\\Users\\totp\\source\\repos\\Blink.Catalogs\\Catalogs.Data\\Catalogs.Data.csproj",
-      "packagesPath": "C:\\Users\\totp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\totp\\source\\repos\\Blink.Catalogs\\Catalogs.Data\\obj\\",
+      "projectPath": "C:\\Users\\Pablo\\Documents\\GitHub\\blink.catalogos\\Blink.Catalogs\\Catalogs.Data\\Catalogs.Data.csproj",
+      "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pablo\\Documents\\GitHub\\blink.catalogos\\Blink.Catalogs\\Catalogs.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\totp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3684,8 +3681,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\totp\\source\\repos\\Blink.Catalogs\\Catalogs.Core\\Catalogs.Core.csproj": {
-              "projectPath": "C:\\Users\\totp\\source\\repos\\Blink.Catalogs\\Catalogs.Core\\Catalogs.Core.csproj"
+            "C:\\Users\\Pablo\\Documents\\GitHub\\blink.catalogos\\Blink.Catalogs\\Catalogs.Core\\Catalogs.Core.csproj": {
+              "projectPath": "C:\\Users\\Pablo\\Documents\\GitHub\\blink.catalogos\\Blink.Catalogs\\Catalogs.Core\\Catalogs.Core.csproj"
             }
           }
         }
@@ -3702,7 +3699,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },
