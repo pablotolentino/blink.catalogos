@@ -1,0 +1,11 @@
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\bin\Debug\netcoreapp2.0\Catalogs.Core.deps.json
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\bin\Debug\netcoreapp2.0\Catalogs.Core.dll
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\obj\Debug\netcoreapp2.0\Catalogs.Core.csprojResolveAssemblyReference.cache
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\obj\Debug\netcoreapp2.0\Catalogs.Core.csproj.CoreCompileInputs.cache
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\obj\Debug\netcoreapp2.0\Catalogs.Core.AssemblyInfoInputs.cache
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\obj\Debug\netcoreapp2.0\Catalogs.Core.AssemblyInfo.cs
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\bin\Debug\netcoreapp2.0\Catalogs.Core.runtimeconfig.json
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\bin\Debug\netcoreapp2.0\Catalogs.Core.runtimeconfig.dev.json
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\bin\Debug\netcoreapp2.0\Catalogs.Core.pdb
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\obj\Debug\netcoreapp2.0\Catalogs.Core.dll
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.Core\obj\Debug\netcoreapp2.0\Catalogs.Core.pdb

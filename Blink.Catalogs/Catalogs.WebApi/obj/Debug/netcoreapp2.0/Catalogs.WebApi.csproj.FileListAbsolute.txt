@@ -1,0 +1,15 @@
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.WebApi.deps.json
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.WebApi.runtimeconfig.json
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.WebApi.runtimeconfig.dev.json
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.WebApi.dll
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.WebApi.pdb
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\obj\Debug\netcoreapp2.0\Catalogs.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\obj\Debug\netcoreapp2.0\Catalogs.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\obj\Debug\netcoreapp2.0\Catalogs.WebApi.AssemblyInfoInputs.cache
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\obj\Debug\netcoreapp2.0\Catalogs.WebApi.AssemblyInfo.cs
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\obj\Debug\netcoreapp2.0\Catalogs.WebApi.dll
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\obj\Debug\netcoreapp2.0\Catalogs.WebApi.pdb
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.Core.dll
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.Data.dll
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.Core.pdb
+C:\Users\totp\source\repos\Blink.Catalogs\Catalogs.WebApi\bin\Debug\netcoreapp2.0\Catalogs.Data.pdb
